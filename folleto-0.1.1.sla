@@ -507,7 +507,7 @@
             <para/>
             <ITEXT CH="Se instala en una memoria USB y es posible guardar con seguridad datos y instalar nuevos programas como si fuera un sistema operativo, porque la memoria USB está totalmente cifrada. Aconsejamos esta distribución para un uso habitual."/>
             <para/>
-            <ITEXT CH="[1] https://we.riseup.net/avana/freepto-docs-es"/>
+            <ITEXT CH="[1] https://freepto.mx/es/"/>
             <breakline/>
             <ITEXT CH="[2] https://github.com/AvANa-BBS/freepto-lb"/>
             <para PARENT="link"/>
